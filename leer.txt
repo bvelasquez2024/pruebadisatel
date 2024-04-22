@@ -1,0 +1,8 @@
+Ingreso al sistema:
+
+Usuario Admin: bgvc11@hotmail.com
+Contraseña: 12345
+
+Usuario con sin privilegios rol = especial
+
+tecnologias usadas php boostrap css js html phpmyadmin 
